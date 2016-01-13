@@ -24,3 +24,8 @@ Slides can be found [here](http://slides.com/luciasantamaria/about#/)
 
  * [Exercises](https://github.com/luciasantamaria/pandas-tutorial/blob/master/data-munging-with-pandas.ipynb)
 
+### License
+Derivative content credits its original creators and it's distributed under the license provided by them. 
+Original content developed by Lucía Santamaría is distributed under the [MIT license](https://opensource.org/licenses/MIT).
+
+
