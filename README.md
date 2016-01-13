@@ -22,5 +22,5 @@ Slides can be found [here](http://slides.com/luciasantamaria/about#/)
 
 ### Data munging with pandas
 
- * [Exercises](https://github.com/luciasantamaria/pandas-tutorial/blob/master/data-mungling-with-pandas.ipynb)
+ * [Exercises](https://github.com/luciasantamaria/pandas-tutorial/blob/master/data-munging-with-pandas.ipynb)
 
