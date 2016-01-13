@@ -16,11 +16,11 @@ Slides can be found [here](http://slides.com/luciasantamaria/about#/)
 
 ### Intro tutorials on pandas basics
 
- * Data structures
- * Working with dataframes
- * Using pandas on the MovieLens dataset
+ * [Data structures](https://github.com/luciasantamaria/pandas-tutorial/blob/master/intro-to-pandas-1-Data-Structures.ipynb)
+ * [Working with dataframes](https://github.com/luciasantamaria/pandas-tutorial/blob/master/intro-to-pandas-2-Working-With-DataFrames.ipynb)
+ * [Using pandas on the MovieLens dataset](https://github.com/luciasantamaria/pandas-tutorial/blob/master/intro-to-pandas-3-Pandas-On-MovieLens.ipynb)
 
 ### Data munging with pandas
 
- * Exercises
+ * [Exercises](https://github.com/luciasantamaria/pandas-tutorial/blob/master/data-mungling-with-pandas.ipynb)
 
