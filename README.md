@@ -31,6 +31,12 @@ Slides can be found [here](http://slides.com/luciasantamaria/about#/)
  * Doing machine learning with scikit-learn [slides](https://github.com/luciasantamaria/pandas-tutorial/blob/master/scikit-learn.pdf)
  * [Tutorial: Introduction to scikit-learn](https://github.com/luciasantamaria/pandas-tutorial/blob/master/intro-to-scikit-learn-1-Basics.ipynb)
 
+## Your first data analysis case
+
+A great source of data problems nowadays is the Kaggle platform. We'll be starting today with a simple but representative dataset: [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic).
+
+IMPORTANT: you will find plenty of materials to analyze this data, however you'll learn the most if you give the problem some thought and try out several things before resorting to ready-made answers. 
+
 
 ## License
 Derivative content credits its original creators and it's distributed under the license provided by them. 
