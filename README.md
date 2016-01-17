@@ -35,6 +35,8 @@ Slides can be found [here](http://slides.com/luciasantamaria/about#/)
 
 A great source of data problems nowadays is the Kaggle platform. We'll be starting today with a simple but representative dataset: [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic).
 
+ * [Guide](https://github.com/luciasantamaria/pandas-tutorial/blob/master/titanic-machine-learning.ipynb) for orientation to approach the problem
+
 IMPORTANT: you will find plenty of materials to analyze this data, however you'll learn the most if you give the problem some thought and try out several things before resorting to ready-made answers. 
 
 
