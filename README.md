@@ -8,6 +8,7 @@ This repository contains tutorials for learning python packages pandas and sciki
  	* [Intro tutorials on pandas basics](#intro-tutorials-on-pandas-basics)
  	* [Data munging with pandas](#data-munging-with-pandas)
  * [Scikit-learn](#scikit-learn)
+ * [Your first data analysis case](#your-first-data-analysis-case)
 
 
 ## About me
