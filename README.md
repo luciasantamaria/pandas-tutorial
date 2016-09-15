@@ -1,4 +1,4 @@
-# Teaching materials for pandas and scikit-learn
+# Teaching materials for python, pandas and scikit-learn
 This repository contains tutorials for learning python packages pandas and scikit-learn.
 
 ## Table of Contents
@@ -13,6 +13,9 @@ This repository contains tutorials for learning python packages pandas and sciki
 
 ## About me
 Slides can be found [here](http://slides.com/luciasantamaria/about#/)
+
+## Python basics
+Slides can be found [here](https://slides.com/luciasantamaria/introtopython-pythonproglanguage/)
 
 ## Pandas 
 
