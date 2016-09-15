@@ -4,6 +4,7 @@ This repository contains tutorials for learning python packages pandas and sciki
 ## Table of Contents
 
  * [About me](#about-me)
+ * [Python basics](#python-basics)
  * [Pandas](#pandas)
  	* [Intro tutorials on pandas basics](#intro-tutorials-on-pandas-basics)
  	* [Data munging with pandas](#data-munging-with-pandas)
