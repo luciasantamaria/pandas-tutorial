@@ -1,10 +1,13 @@
 # Teaching materials for python, pandas and scikit-learn
-This repository contains tutorials for learning python packages pandas and scikit-learn.
+This repository contains tutorials for python basics, pandas, and scikit-learn.
 
 ## Table of Contents
 
  * [About me](#about-me)
  * [Python basics](#python-basics)
+  * [Python 2 vs Python 3](#python-2-vs-python-3)
+  * [Jupyter notebook](#jupyter-notebook)
+  * [Python tutorial](#python-tutorial)
  * [Pandas](#pandas)
  	* [Intro tutorials on pandas basics](#intro-tutorials-on-pandas-basics)
  	* [Data munging with pandas](#data-munging-with-pandas)
@@ -18,8 +21,19 @@ Slides can be found [here](http://slides.com/luciasantamaria/about#/)
 ## Python basics
 Slides can be found [here](https://slides.com/luciasantamaria/introtopython-pythonproglanguage/)
 
- * Great [Jupyter notebook](https://github.com/luciasantamaria/pandas-tutorial/blob/master/key_differences_between_python_2_and_3.ipynb) covering the main differences between Python 2 and 3, cloned from Sebastian Raschka's github.
- * To keep code compatible with both Python 2 and Python 3: [Cheat Sheet](http://python-future.org/compatible_idioms.html#cheat-sheet-writing-python-2-3-compatible-code).
+### Python 2 vs Python 3
+
+ * Great [Jupyter notebook](https://github.com/luciasantamaria/pandas-tutorial/blob/master/key_differences_between_python_2_and_3.ipynb) covering the main differences between Python 2 and 3, cloned from [Sebastian Raschka's github](https://github.com/rasbt)
+ * To keep code compatible with both Python 2 and Python 3: [Cheat Sheet](http://python-future.org/compatible_idioms.html#cheat-sheet-writing-python-2-3-compatible-code)
+
+### Jupyter notebook
+
+ * Experiment further with the Jupyter Notebook with [this Notebook](http://nbviewer.ipython.org/github/ipython/ipython/blob/2.x/examples/Notebook/Running%20Code.ipynb)
+ * Many more Jupyter features in [this blog post](http://arogozhnikov.github.io/2016/09/10/jupyter-features.html) 
+ 
+### Python tutorial 
+ 
+ * Times to get your hands dirty. Read and test for yourself: [The SciPy Lectures -- The Python Language](http://scipy-lectures.github.io/intro/language/python_language.html)
 
 ## Pandas 
 
