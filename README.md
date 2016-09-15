@@ -18,6 +18,9 @@ Slides can be found [here](http://slides.com/luciasantamaria/about#/)
 ## Python basics
 Slides can be found [here](https://slides.com/luciasantamaria/introtopython-pythonproglanguage/)
 
+ * Great [Jupyter notebook](https://github.com/luciasantamaria/pandas-tutorial/blob/master/key_differences_between_python_2_and_3.ipynb) covering the main differences between Python 2 and 3, cloned from Sebastian Raschka's github.
+ * To keep code compatible with both Python 2 and Python 3: [Cheat Sheet](http://python-future.org/compatible_idioms.html#cheat-sheet-writing-python-2-3-compatible-code).
+
 ## Pandas 
 
 ### Intro tutorials on pandas basics
