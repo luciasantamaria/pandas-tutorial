@@ -33,7 +33,9 @@ Slides can be found [here](https://slides.com/luciasantamaria/introtopython-pyth
  
 ### Python tutorial 
  
- * Times to get your hands dirty. Read and test for yourself: [The SciPy Lectures -- The Python Language](http://scipy-lectures.github.io/intro/language/python_language.html)
+ * Time to get your hands dirty. Read and test for yourself: [The SciPy Lectures -- The Python Language](http://scipy-lectures.github.io/intro/language/python_language.html)
+ * [Python interactive exercises](http://codingbat.com/python)
+ * Join the [codewars competitions](http://www.codewars.com/?language=python)
 
 ## Pandas 
 
